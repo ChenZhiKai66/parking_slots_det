@@ -1,0 +1,8 @@
+torchvision~=0.8.2+cu110
+opencv-python~=4.5.1.48
+numpy~=1.19.5
+Pillow~=7.0.0
+visdom~=0.1.8.9
+matplotlib~=3.1.2
+thop~=0.0.31.post2005241907
+torch~=1.7.1+cu110

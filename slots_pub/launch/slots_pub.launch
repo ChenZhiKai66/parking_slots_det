@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="slots_pub" type="img_slots.py" name="" output="screen"/>
+    <node pkg="slots_pub" type="odom_slots_map_m.py" name="" output="screen"/>
+</launch>
