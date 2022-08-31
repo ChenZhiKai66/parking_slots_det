@@ -2,7 +2,7 @@
 
 ## Pipeline
 
-![image](https://github.com/docs/pipline.png)
+![image](https://github.com/ChenZhiKai66/parking_slots_det/blob/main/docs/pipline.png)
 
 1. 投影变换需要手动选取标定点
 2. 图像拼接采用外部标定点空间一致性的方法
